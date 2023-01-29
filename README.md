@@ -10,7 +10,7 @@ AWS_BUCKET=
 AWS_USE_PATH_STYLE_ENDPOINT=false
 ```
 
-Install aws library buy the following command.
+Install aws library by the following command.
 ```
 composer require --with-all-dependencies league/flysystem-aws-s3-v3 "^1.0"
 ```
